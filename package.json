@@ -1,0 +1,10 @@
+{
+  "name": "rwa-origination-vaults",
+  "version": "0.1.0",
+  "description": "Solidity contracts for on-chain credit origination using Morpho Vaults as the liquidity back-end.",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test"
+  },
+  "license": "MIT"
+}
